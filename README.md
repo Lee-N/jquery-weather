@@ -5,8 +5,8 @@
 ## DOC:
    1. import
    ```
-     <link rel="stylesheet" href="css/jquery-weather.css">
      <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/jquery-weather.css">
      <script src="js/jquery-3.3.1.js"></script>
      <script src="js/bootstrap.min.js"></script>
      <script src="js/jquery-weather.js"></script>
