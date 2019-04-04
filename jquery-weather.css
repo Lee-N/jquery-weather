@@ -1,0 +1,58 @@
+#weather{
+    padding-left: 15px;
+    padding-right: 15px ;
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    position: relative;
+    cursor: pointer;
+}
+.tem p{
+    margin-bottom: 5px;
+}
+.tem>div:first-of-type p{
+    font-size: 40px;
+    line-height: 45px;
+}
+.tem>div:first-of-type{
+    padding:5px;
+    text-align: right;
+}
+.tem>div:last-of-type{
+    padding: 5px;
+    text-align: left;
+}
+.air_level{
+    display: inline-block;
+    width: 30%;
+}
+.tips{
+    display: none;
+    width: 100%;
+    min-width: 320px;
+    padding:20px 20px;
+    border:5px solid #beceeb;
+    position:absolute;
+    top: 15px;
+    left: 26%;
+    background: white;
+    font-size: 13px;
+}
+.tips span{width:0; height:0; font-size:0; overflow:hidden; position:absolute;}
+.tips span.bot{
+    border-width:20px;
+    border-style:solid dashed dashed;
+    border-color:#beceeb transparent transparent;
+    left:25%;
+    bottom:-40px;
+}
+.tips span.top{
+    border-width:20px;
+    border-style:solid dashed dashed;
+    border-color:#ffffff transparent transparent;
+    left:25%;
+    bottom:-33px;
+}
+#weather>.row:hover>.tips{
+   display: inherit;
+}
