@@ -1,7 +1,7 @@
 # jquery-weather
 基于jquery和bootstrap的天气插件
 # 天气api调用https://www.tianqiapi.com
-一个简单的天气插件。  
+A simple Weather Plugin 
 DOC:
    1. import
    ```
@@ -22,9 +22,9 @@ DOC:
   })
   ```
   4.options
-  - city:""       like "镇江"  default:your position
-  - skin:""       ["apple","banana","cherry","gif","grape","longan","mango","orange","peach",
-                  "pear","pitaya","yahoo","cucumber","durian","cake","sogou"]
+  - city:""&emsp;&emsp;&emsp;&emsp;like "镇江"&emsp;&emsp;&emsp;&emsp;default:your position
+  - skin:""&emsp;&emsp;&emsp;&emsp;["apple","banana","cherry","gif","grape","longan","mango","orange","peach",
+  &emsp;&emsp;&emsp;&emsp; "pear","pitaya","yahoo","cucumber","durian","cake","sogou"]  
                   default:"sogou"
-  - tips:         true/false   default:true
+  - tips:&emsp;&emsp;&emsp;&emsp;true/false   default:true
   
