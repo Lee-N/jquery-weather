@@ -1,8 +1,8 @@
 # jquery-weather
 基于jquery和bootstrap的天气插件
 # 天气api调用https://www.tianqiapi.com
-A simple Weather Plugin 
-DOC:
+## A simple Weather Plugin   
+## DOC:
    1. import
    ```
      <link rel="stylesheet" href="css/jquery-weather.css">
