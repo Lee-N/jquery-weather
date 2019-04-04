@@ -24,6 +24,6 @@ DOC:
   4.options
   - city &emsp;&emsp;&emsp;&emsp; like "镇江"&emsp;&emsp;&emsp;&emsp;default:your position  
   - skin &emsp;&emsp;&emsp;&emsp;["apple","banana","cherry","gif","grape","longan","mango","orange","peach"]  
-    &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;["pear","pitaya","yahoo","cucumber","durian","cake","sogou"]  
-    &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;default:"sogou"  
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;["pear","pitaya","yahoo","cucumber","durian","cake","sogou"]  
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;default:"sogou"  
   - tips &emsp;&emsp;&emsp;&emsp;true/false&emsp;&emsp;&emsp;&emsp;&emsp;default:true
