@@ -2,6 +2,7 @@
 基于jquery和bootstrap的天气插件
 # 天气api调用https://www.tianqiapi.com
 ## A simple Weather Plugin   
+* 2019.2.2 Update API
 ## Online Demo [here](https://lee-n.github.io/jquery-weather/)  
 ## DOC:
    1. import
