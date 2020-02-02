@@ -19,7 +19,12 @@
    3.js
    ```
   $(function () {
-   $("#weather").weather();
+   $("#weather").weather(
+   {
+    city:"北京",
+    tips:false
+   }
+   );
   })
   ```
   4.options
