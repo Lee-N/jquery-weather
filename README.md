@@ -19,7 +19,7 @@
    3.js
    ```
   $(function () {
-   $("#weather").weather();
+   $("#weather").weather({city:"镇江",tips:false});
   })
   ```
   4.options
